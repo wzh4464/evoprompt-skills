@@ -31,14 +31,14 @@ bash install.sh ~/.claude/skills
 ### Option 2: Manual copy
 
 ```bash
-git clone https://github.com/ZihanWang314/evoprompt-skills.git
+git clone https://github.com/wzh4464/evoprompt-skills.git
 cp -r evoprompt-skills/skills/* ~/.config/opencode/skills/
 ```
 
 ### Option 3: Symlink
 
 ```bash
-git clone https://github.com/ZihanWang314/evoprompt-skills.git
+git clone https://github.com/wzh4464/evoprompt-skills.git
 for dir in evoprompt-skills/skills/*/; do
   ln -sfn "$(pwd)/$dir" ~/.config/opencode/skills/"$(basename "$dir")"
 done
@@ -46,7 +46,7 @@ done
 
 ## Prerequisites
 
-- [EvoPrompt](https://github.com/ZihanWang314/evoprompt) repository cloned locally
+- [EvoPrompt](https://github.com/wzh4464/evoprompt) repository cloned locally
 - Python 3.9+
 - [uv](https://github.com/astral-sh/uv) package manager
 
