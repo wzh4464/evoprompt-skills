@@ -1,6 +1,6 @@
 # evoprompt-skills
 
-AI coding assistant skills for the [EvoPrompt](https://github.com/ZihanWang314/evoprompt) evolutionary prompt optimization framework targeting vulnerability detection.
+AI coding assistant skills for the [EvoPrompt](https://github.com/wzh4464/evoprompt) evolutionary prompt optimization framework targeting vulnerability detection.
 
 ## Skills
 
