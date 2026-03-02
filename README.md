@@ -17,7 +17,7 @@ AI coding assistant skills for the [EvoPrompt](https://github.com/wzh4464/evopro
 ### Option 1: Clone + install script
 
 ```bash
-git clone https://github.com/ZihanWang314/evoprompt-skills.git
+git clone https://github.com/wzh4464/evoprompt-skills.git
 cd evoprompt-skills
 bash install.sh
 ```
